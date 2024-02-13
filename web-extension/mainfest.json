@@ -1,0 +1,7 @@
+{
+	"name": "com.my_company.my_application",
+	"description": "My Application",
+	"path": "path/to/your/executable",
+	"type": "stdio",
+	"allowed_extensions": ["my_extension_id"]
+}
